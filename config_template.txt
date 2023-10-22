@@ -1,0 +1,11 @@
+[aws-iam]
+access_key_id = ***
+access_secret = *
+arn = ***
+
+[db]
+db_name = **
+db_host = **
+db_port = **
+db_login = *
+db_password = **

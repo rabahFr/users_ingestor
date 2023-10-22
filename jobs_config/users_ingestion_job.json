@@ -1,0 +1,6 @@
+{
+  "bucket_to_scan": "cbdeltatables",
+  "table_to_write": "users",
+  "save_mode": "overwrite",
+  "dry_run": "False"
+}
